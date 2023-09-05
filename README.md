@@ -2,15 +2,15 @@
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="400"/>
 </div>
 
-<h1 align="center">Hi, I'm Dita</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Dita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <p align="center"><a href="https://www.twitter.com/rahmaditalistia"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/listianingrumr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/rahmaditalistia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@rahmaditalistianingrum4412"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@listianingrumr"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 <h2 align="center">A passionate spatial data scientist and digiviz enthusiast <br>from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=listianingrumr&label=Profile%20views&color=0e75b6&style=flat" alt="listianingrumr" /> </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio website](listianingrumr.github.io)
+- 👨‍💻 All of my projects are available at **[my portfolio website](listianingrumr.github.io)**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@listianingrumr)
+- 📝 I regularly write articles on **[Medium](https://medium.com/@listianingrumr)**
 
 - 📫 You can reach me via **[email](listianingrumr@gmail.com)**
 
