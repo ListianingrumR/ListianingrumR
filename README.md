@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=listianingrumr&label=Profile%20views&color=0e75b6&style=flat" alt="listianingrumr" /> </p>
 
-- 👨‍💻 All of my projects are available at **[my portfolio website](listianingrumr.github.io)**
+- 👨‍💻 All of my projects are available at **[my portfolio website](https://listianingrumr.github.io)**
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@listianingrumr)**
 
-- 📫 You can reach me via **[email](listianingrumr@gmail.com)**
+- 📫 You can reach me via **[email](mailto:listianingrumr@gmail.com)**
 
 - 💬 Ask me about **GIS, dataviz, mining**
 
